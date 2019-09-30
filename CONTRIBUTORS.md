@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Siddharth Bhardwaj](https://github.com/sidd119007)
+- Place: Delhi, India
+- Bio: ENgineer
+- Github: [Siddharth Bhardwaj](https://github.com/sidd119007)
